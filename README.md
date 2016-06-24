@@ -10,12 +10,13 @@ The vertical version or the atom (symbol) can be used if preferable.
 ![Vertical-Main_000px.png](Logo/Rasters/Vertical/Vertical-Main_100px.png)
 ![Atom-Main_100px.png](Logo/Rasters/Atom/Atom-Main_100px.png)
 
---
-
 The main company color is Amaranth ([#eb274a](http://www.colorhexa.com/eb274a)) and main font is Roboto Light.
 
+--
 
 Extended guidelines: [Download](https://gitcdn.xyz/repo/fermiumlabs/presskit/master/Logo/Guidelines.pdf)
 
-#### Credits
+--
+
+### Credits
 The Logo has been designed by [Serena Vinciguerra](http://www.serenavinciguerra.it)
