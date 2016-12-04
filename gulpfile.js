@@ -12,9 +12,9 @@ gulp.task('pdf-to-png', function() {
             //create directory if it does not exist
             'mkdir -p \"build/<%= file.relative.split("/").slice(0, -1).join("/")+"/" %>\"',
             //Convert PDF to png 
-            'gs -sDEVICE=pngalpha -dNOPAUSE -dQUIET -dBATCH -r300  -o \"build/<%= file.relative.replace(".pdf",".png") %>\" \"<%= file.relative %>\"'
+            'gs -sDEVICE=pngalpha -dNOPAUSE -dQUIET -dBATCH -r100  -o \"build/<%= file.relative.replace(".pdf",".png") %>\" \"<%= file.relative %>\"'
         ], {
-            verbose: true,
+            verbose: false,
         }))
         .pipe(print())
 
