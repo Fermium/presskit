@@ -4,7 +4,7 @@ var clean = require('gulp-clean');
 var changed = require('gulp-changed');
 var print = require('gulp-print');
 
-// compress and optimize the pdf files with ghostscript
+// Transform pdf files in png
 gulp.task('pdf-to-png', function() {
     return gulp.src(['**/*.pdf', '!build/**'])
         .pipe(changed('**/*.pdf')) //only changed pdf files
@@ -29,4 +29,4 @@ gulp.task('clean', function() {
 });
 
 // watch for changes
-gulp.task('default', ['compress']);
+gulp.task('default', ['pdf-to-png']);
