@@ -1,4 +1,4 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-69533556-3/readme/)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-69533556-3/presskit/readme/)](https://github.com/igrigorik/ga-beacon)
 
 # Logo
 
