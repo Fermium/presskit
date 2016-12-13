@@ -23,4 +23,4 @@ Extended guidelines: [Download](https://gitcdn.xyz/repo/fermiumlabs/presskit/mas
 ### Credits
 The Logo, as well as the company branding and colors has been designed by [Serena Vinciguerra](http://www.serenavinciguerra.it).
 
-Letterhead by Muhammad Faisal.
+Our Letterhead was made by Muhammad Faisal.
