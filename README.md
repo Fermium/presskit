@@ -16,7 +16,7 @@ The main company color is Amaranth ([#eb274a](http://www.colorhexa.com/eb274a)) 
 
 --
 
-Extended guidelines: [Download](https://gitcdn.xyz/repo/fermiumlabs/presskit/master/Logo/Guidelines.pdf)
+Extended guidelines: [Download](https://gitcdn.xyz/repo/fermiumlabs/presskit/master/Guidelines.pdf)
 
 --
 
