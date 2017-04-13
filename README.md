@@ -20,3 +20,9 @@ Extended guidelines: [Download](https://gitcdn.xyz/repo/fermiumlabs/presskit/mas
 
 ### Credits
 The Logo has been designed by [Serena Vinciguerra](http://www.serenavinciguerra.it)
+
+---
+
+<a href="https://twitter.com/intent/user?screen_name=fermiumlabs">
+    <img src="https://img.shields.io/twitter/follow/fermiumlabs.svg?style=social&label=Follow" alt="Follow Fermium LABS on Twitter" align="right" />
+</a>
