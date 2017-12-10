@@ -1,7 +1,7 @@
 # Logo
 
 The Logo represents the atomic configuration of the element [Fermium](https://en.wikipedia.org/wiki/Fermium). Each dot represents one of [100](https://en.wikipedia.org/wiki/Atomic_number) electrons. 
-The name of the element Fermium is in honour of the italian scientist [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi).
+The name of the element Fermium (as well as the name of our company) is in honour of the italian scientist [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi).
 
 ![Horizontal-Main_250px.png](Logo/Rasters/Horizontal/Horizontal-Main_250px.png)
 
