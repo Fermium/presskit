@@ -113,7 +113,20 @@
     </ObjectData>
   </PaletteEntry>
 
-  <PaletteEntry id="d10">
+  <PaletteEntry id="d-A3-frm">
+    <References/>
+    <Presentation name="A3 - Fermium - Size" description="Fermium A3 Sheet">
+      <PreviewImage type="UGPart" location="drawing_template.jpg"/>
+    </Presentation>
+    <ObjectData class="SheetTemplate">
+        <TemplateFileType>none</TemplateFileType>
+        <Filename>C:\altium-projects\presskit\Tecnical Layouts\Siemens NX\Drawing-A3-Size2D-template.prt</Filename>
+        <Units>Metric</Units>
+    </ObjectData>
+  </PaletteEntry>
+
+
+    <PaletteEntry id="d10">
     <References/>
     <Presentation name="A3 - Size" description="NX Example Sheet">
       <PreviewImage type="UGPart" location="drawing_template.jpg"/>
@@ -185,16 +198,5 @@
     </ObjectData>
   </PaletteEntry>
   
- <PaletteEntry id="d27">
-    <References/>
-    <Presentation name="FERMIUM TEMP A3" description="Creates 22in x 34in size layout" tooltip="This NX template example creates a D size layout that does not reference any existing models.">
-      <PreviewImage type="UGPart" location="2Dlayout_template.jpg"/>
-    </Presentation>
-    <ObjectData class="SheetTemplate">
-      <TemplateFileType>none</TemplateFileType>
-      <Filename>FERMIUM TEMP A3.prt</Filename>
-      <Units>Metric</Units>
-    </ObjectData>
-  </PaletteEntry>
 </Palette>
 
